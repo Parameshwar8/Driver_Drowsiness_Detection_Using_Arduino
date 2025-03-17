@@ -52,12 +52,16 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 ### Results 
 
-<img src="https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/blob/main/Screenshots/working.mp4">
+<video src="https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/raw/main/Screenshots/working.mp4" width="600" controls></video>
+
 
 
 ### Execution 
 To run the code, type `python Drowsiness_Detection.py`
-
+<br>
+Before running the code, ensure that the Arduino cable is properly connected to the system.
+This connection is essential for uploading the code and establishing communication with the hardware.
+Verify the correct COM port is selected in the Arduino IDE or any other interface you are using.
 ```
 python Drowsiness_Detection.py
 ```

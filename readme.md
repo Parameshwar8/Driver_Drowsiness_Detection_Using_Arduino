@@ -52,7 +52,9 @@ For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-
 
 ### Results 
 
-<video src="https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/raw/main/Screenshots/working.mp4" width="600" controls></video>
+
+[Watch the Video](https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/raw/main/Screenshots/working.mp4)
+
 
 
 

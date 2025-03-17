@@ -33,21 +33,26 @@ Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of 
 
 It checks 20 consecutive frames and if the Eye Aspect ratio is less than 0.25, Alert is generated.
 
-<img src=" ">
+<img src="https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/blob/main/Screenshots/eyes1.jpeg">
 
 
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/assets/eye2.png">
+<img src="https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/blob/main/Screenshots/EAR.png">
+<br>
+<br>
+mouth detection, the mouth is represented by 20 (x, y)-coordinates, outlining both the inner and outer lips, starting from one corner and moving sequentially around the mouth.
 
-#### Summing up
+<img src="https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/blob/main/Screenshots/mouth.jpg">
 
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/assets/eye3.jpg">
+
+<img src="https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/blob/main/Screenshots/MAR.png">
+
 
 
 For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
 
 ### Results 
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/madrowsy.gif">
+<img src="https://github.com/Parameshwar8/Driver_Drowsiness_Detection_Using_Arduino/blob/main/Screenshots/working.mp4">
 
 
 ### Execution 
